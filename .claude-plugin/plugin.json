@@ -1,0 +1,9 @@
+{
+  "name": "crossbill",
+  "description": "Crossbill reading app integration for Claude Code",
+  "version": "0.1.0",
+  "author": {
+    "name": "Crossbill"
+  },
+  "keywords": ["reading", "books", "highlights", "flashcards"]
+}

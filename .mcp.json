@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "crossbill": {
+      "command": "crossbill-mcp",
+      "args": [],
+      "env": {
+        "CROSSBILL_URL": "${CROSSBILL_URL}",
+        "CROSSBILL_EMAIL": "${CROSSBILL_EMAIL}",
+        "CROSSBILL_PASSWORD": "${CROSSBILL_PASSWORD}"
+      }
+    }
+  }
+}
